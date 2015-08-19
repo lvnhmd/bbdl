@@ -1,0 +1,43 @@
+{
+  "name": "bbdl",
+  "version": "1.0.0",
+  "description": "basic branddirectory.london",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvnhmd/bbdl.git"
+  },
+  "keywords": [
+    "brandirectory.london",
+    "brand",
+    "brands",
+    "london",
+    "directory",
+    "shop",
+    "fashion",
+    "sale",
+    "sales",
+    "discount",
+    "discounts",
+    "shoes",
+    "bags",
+    "lipstick",
+    "stylist",
+    "asks",
+    "selfridges",
+    "john",
+    "lewis"
+  ],
+  "author": "elvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvnhmd/bbdl/issues"
+  },
+  "homepage": "https://github.com/lvnhmd/bbdl",
+  "dependencies": {
+    "x-ray": "^2.0.2"
+  }
+}
