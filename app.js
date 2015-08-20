@@ -30,6 +30,23 @@ server.on('request', function(req, res) {
 						console.log('Error: ' + err);
 					} else {
 						
+						// this means we fetched data and it is in json format
+						// iterate over the json array 
+						// get url 
+						// collect urls into an array of jobs to be executed
+
+						// fire url
+						// xray data
+						// get first image link
+						// find a template
+						// feed the template with the api result
+						// refactor api
+
+
+
+
+
+
 						res.statusCode = httpStatusCodes['OK'];
 						data = JSON.stringify(data);
 
